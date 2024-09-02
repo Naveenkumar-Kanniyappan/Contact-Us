@@ -22,7 +22,7 @@ body{
 
 .main-container{
     width: 550px;
-    height: 700px;
+    height: 550px;
     border-radius: 10px;
     margin:100px auto;
     background-color:var(--color);
@@ -162,6 +162,7 @@ sup{
     color:var(--sub-color);
 
 }
+
 
 
 
